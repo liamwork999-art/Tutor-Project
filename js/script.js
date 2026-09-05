@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // Change nav bar scroll
+
 window.addEventListener("scroll", function () {
   const navbar = document.querySelector(".navbar");
 
